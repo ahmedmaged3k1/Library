@@ -1,0 +1,3 @@
+How To C Programing,2,140
+Java Programing,3,75
+JavaScript Toturials,1,220
